@@ -1,6 +1,7 @@
-package search;
+package test;
 
 import junit.framework.TestCase;
+import search.SecondLargestNumber;
 
 import java.util.ArrayList;
 import java.util.List;

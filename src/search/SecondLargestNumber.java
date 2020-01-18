@@ -5,7 +5,7 @@ import java.util.List;
 
 public class SecondLargestNumber {
 
-    static Integer findSecondLargestNumber(List<Integer> list) {
+    public static Integer findSecondLargestNumber(List<Integer> list) {
 
         int largestNumber = 0;
         int secondLargestNumber = 0;
